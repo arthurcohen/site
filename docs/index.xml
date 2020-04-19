@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oi on For:Cohen</title>
-    <link>http://forcohen.com/</link>
+    <link>http://www.forcohen.com/</link>
     <description>Recent content in oi on For:Cohen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Apr 2020 13:47:52 -0300</lastBuildDate>
     
-	<atom:link href="http://forcohen.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.forcohen.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://forcohen.com/contact/</link>
+      <link>http://www.forcohen.com/contact/</link>
       <pubDate>Sat, 18 Apr 2020 18:38:18 -0300</pubDate>
       
-      <guid>http://forcohen.com/contact/</guid>
+      <guid>http://www.forcohen.com/contact/</guid>
       <description>$ cat contacts.txt
 linkedin: linkedin.com/in/forcohen
 linkedin: github.com/arthurcohen</description>
@@ -24,10 +24,10 @@ linkedin: github.com/arthurcohen</description>
     
     <item>
       <title>About</title>
-      <link>http://forcohen.com/about/</link>
+      <link>http://www.forcohen.com/about/</link>
       <pubDate>Thu, 16 Apr 2020 11:19:35 -0300</pubDate>
       
-      <guid>http://forcohen.com/about/</guid>
+      <guid>http://www.forcohen.com/about/</guid>
       <description>$ whoami
 Arthur Cohen
 $ cat ./resume.txt
@@ -37,10 +37,10 @@ I&amp;rsquo;m a Flutter entusiast, and love to play with back-end development. I
     
     <item>
       <title>The Good News Corona Virus</title>
-      <link>http://forcohen.com/projects/the-good-news/</link>
+      <link>http://www.forcohen.com/projects/the-good-news/</link>
       <pubDate>Thu, 16 Apr 2020 10:07:24 -0300</pubDate>
       
-      <guid>http://forcohen.com/projects/the-good-news/</guid>
+      <guid>http://www.forcohen.com/projects/the-good-news/</guid>
       <description>Well, this is a very delicated subject to manage.
 At March 16 I started to work at a new company, in another city, 400km far from home, in the middle of the coronavirus pandemic, and, oh boy, at first, it was hard.
 There was 2 friends with me living by the next door. They supported me all the times, and we were together whenever possible, respection all the social distance and self-isolation rules.</description>
