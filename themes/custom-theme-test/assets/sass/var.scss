@@ -1,0 +1,9 @@
+$background: #080808;
+$background-light: lighten($background, 5%);
+$background-lighter: lighten($background, 15%);
+
+$foreground: #fff;
+$foreground-dark: darken($foreground, 40%);
+
+$primary: #f92672;
+$secondary: #605020;

@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ range .Data.Pages }}
+    {{if eq .RelPermalink "/contact/" }} 
+      {{.Content}}
+    {{end}}
+  {{ end }}
+  <p>$ ls ./projects | head -6</p>
+  {{ range first 6 (where .Site.RegularPages "Type" "projects") }}
+    <h4><a href="{{ .Permalink }}">{{ lower .Title }}</a></h4>
+  {{ end }}
+{{ end }}

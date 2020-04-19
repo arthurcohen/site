@@ -1,0 +1,11 @@
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+{{ define "main" }}
+  <p>$ cd ~/{{ lower .Title }}</p>
+  <p>$ ls</p>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h4><a href="{{ .Permalink }}">{{ lower .Title }}</a></h4>
+  {{ end }}
+{{ end }}

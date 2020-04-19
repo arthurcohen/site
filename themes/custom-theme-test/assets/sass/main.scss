@@ -1,0 +1,32 @@
+@import 'var';
+@import 'header';
+@import 'footer';
+
+html {
+    font-family: 'Fira Code', monospace;
+    background-color: $background;
+    color: $foreground;
+    padding: 10px;
+    line-height: 1.7em;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: normal;
+    color: $foreground-dark;
+
+    &:hover {
+        font-weight: bolder;
+        box-shadow: 3px 3px $primary;
+    }
+
+    &:visited {
+        color: $foreground-dark;
+    }
+}
+
+.content {
+    max-width: 720px;
+    margin: auto;
+}

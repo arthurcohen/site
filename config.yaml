@@ -1,0 +1,10 @@
+baseURL: "http://forcohen.com/"
+title: "For:Cohen"
+theme: "custom-theme-test"
+languageCode: "en-us"
+publishDir: docs
+params:
+  - author: Arthur Cohen
+  - city: Recife
+  - state: PE
+  - country: Brazil

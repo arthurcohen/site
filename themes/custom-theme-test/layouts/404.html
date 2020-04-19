@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <p>$ cd /{{ lower .Title }}</p>
+  <p>Forbidden : You don't have permissions to access</p>
+  <p>$ sudo chmod -R 777 /{{ lower .Title }}</p>
+  <p>$ cd /{{ lower .Title }}</p>
+  <p>$ ls</p>
+  <p>content.txt</p>
+  <p>$ cat content.txt</p>
+  <p>Maybe you're lost. There is nothing to see here.</p>
+{{ end }}
