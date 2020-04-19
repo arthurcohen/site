@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://forcohen.com/</loc>
+    <lastmod>2020-04-19T13:47:52-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/contact/</loc>
+    <lastmod>2020-04-18T18:38:18-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/about/</loc>
+    <lastmod>2020-04-16T11:19:35-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/tags/nodejs/</loc>
+    <lastmod>2020-04-16T10:07:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/projects/</loc>
+    <lastmod>2020-04-16T10:07:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/tags/reactjs/</loc>
+    <lastmod>2020-04-16T10:07:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/tags/</loc>
+    <lastmod>2020-04-16T10:07:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/projects/the-good-news/</loc>
+    <lastmod>2020-04-16T10:07:24-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://forcohen.com/categories/</loc>
+  </url>
+  
+</urlset>

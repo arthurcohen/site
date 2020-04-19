@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on For:Cohen</title>
+    <link>http://forcohen.com/tags/</link>
+    <description>Recent content in Tags on For:Cohen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2020 10:07:24 -0300</lastBuildDate>
+    
+	<atom:link href="http://forcohen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NodeJS</title>
+      <link>http://forcohen.com/tags/nodejs/</link>
+      <pubDate>Thu, 16 Apr 2020 10:07:24 -0300</pubDate>
+      
+      <guid>http://forcohen.com/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReactJS</title>
+      <link>http://forcohen.com/tags/reactjs/</link>
+      <pubDate>Thu, 16 Apr 2020 10:07:24 -0300</pubDate>
+      
+      <guid>http://forcohen.com/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
